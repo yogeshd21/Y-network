@@ -1,4 +1,4 @@
-# Y-network
+# Y network
 Training a Y-network on CIFAR-10 and CIFAR-100 dataset to identify the optimizer performance and use of additional convolutional layers.
 
 ![image](https://user-images.githubusercontent.com/83297868/158402116-0cba5681-120d-4f14-9b2b-ec1080e57470.png)
